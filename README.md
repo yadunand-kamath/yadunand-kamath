@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Yadunand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats)
+- 💻 I'm a software engineer.
+- 👨‍💻 I'd love to collaborate on projects.
+- 🐧 Btw, I use Arch.
+- 📥 Let's connect! 
+
+<!--
+![](https://komarev.com/ghpvc/?username=yadunand-kamath&color=brightgreen)
+
+[![Yadunand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats)
+-->
+
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadunand-kamath&layout=compact&theme=rose_pine)](https://github.com/yadunand-kamath/github-readme-stats)
