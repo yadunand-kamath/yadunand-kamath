@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💻 I'm a software engineer.
 - 👨‍💻 I'd love to collaborate on projects.
 - 🔭 I'm currently contributing to open-source projects.
-- 🐧 Btw, I use Arch.
+- 🐧 I use Arch btw.
 - 📥 Let's connect! 
 
 <!--
