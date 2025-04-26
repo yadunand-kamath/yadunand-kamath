@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=yadunand-kamath&color=brightgreen)
 
-- 💻 I'm a software engineer.
+- 💻 I'm a software engineer specializing in Modern C++.
 - 👨‍💻 I'd love to collaborate on projects.
 - 🔭 I'm currently contributing to open-source projects.
-- 🐧 I use Arch btw.
+- 🐧 Btw, I use Arch.
 - 📥 Let's connect! 
 
 
