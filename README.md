@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=yadunand-kamath&color=brightgreen)
 
 - 💻 I'm a software engineer.
 - 👨‍💻 I'd love to collaborate on projects.
@@ -22,11 +23,9 @@ Here are some ideas to get you started:
 - 🐧 I use Arch btw.
 - 📥 Let's connect! 
 
-<!--
-![](https://komarev.com/ghpvc/?username=yadunand-kamath&color=brightgreen)
 
 [![Yadunand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats)
--->
-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadunand-kamath&layout=compact&theme=rose_pine)](https://github.com/yadunand-kamath/github-readme-stats)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65cca8c4cba7f7159fb30f40?variant=dark)](https://roadmap.sh)
