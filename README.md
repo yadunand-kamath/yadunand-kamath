@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 - 👨‍💻 I'd love to collaborate on projects.
 - 🔭 I'm currently contributing to open-source projects.
 - 🐧 Btw, I use Arch.
-- 📥 Let's connect! 
+- 📥 [Let's connect!](mailto:yadunand.kamath+github@gmail.com)
+- 📁 [My Portfolio](https://yadunand-kamath.github.io/portfolio/)
 
 
 [![Yadunand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats)
