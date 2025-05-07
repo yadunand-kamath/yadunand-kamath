@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 - 📁 [My Portfolio](https://yadunand-kamath.github.io/portfolio/)
 
 
-[![Yadunand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yadunand-kamath&layout=compact&theme=rose_pine)](https://github.com/yadunand-kamath/github-readme-stats)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/65cca8c4cba7f7159fb30f40?variant=dark)](https://roadmap.sh)
+[![Yadunand's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadunand-kamath)](https://github.com/yadunand-kamath/github-readme-stats) 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yadunand-kamath&theme=monokai&mode=weekly)](https://git.io/streak-stats)
+
+<!--[![roadmap.sh](https://roadmap.sh/card/tall/65cca8c4cba7f7159fb30f40?variant=dark)](https://roadmap.sh)-->
